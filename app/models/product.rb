@@ -5,5 +5,5 @@ class Product < ApplicationRecord
   validates :price, presence: true
   validates :quantity, presence: true
 
-   has_many  :categories
+  belongs_to :category
 end
