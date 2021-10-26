@@ -21,4 +21,4 @@ http://localhost:3001/api/v1/products
 
 http://localhost:3001/api/v1/categories
 ```
-* To see the front-end part, go to the ReactJS App.
+* To see the front-end part, open terminal in a new tab, cd to the ReactJS App and run 'npm start' then go to localhost:3000.
